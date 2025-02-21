@@ -90,5 +90,6 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de S
 
 ![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdlczRkamR3YWIxMDNxM2Fjb3E4NWt1Y2t1MG9lZ3F2aWY0cW5wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vh1PXneQqN1e/giphy.gif)
 
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR2MGduMWlvZHlyYmNjOGZmbWZzZmhxeWRrYnBrMTRnd3p3MXJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W7Pl6YAtWg1qM/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhnaXZhdGFsaWo2aTl3dHh4bDFnYXNtd3F0ZmtvM2RpeGhza2ZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9iZm9lM2F6YWx3NTdhdXEybHk3dHl1ZW1tOHg1cTlmcTRqdW1tYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjwHYT6a3MdggZlvrk/giphy.gif)
 

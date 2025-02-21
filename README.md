@@ -6,7 +6,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
 - 🎓 Estudando - Ciência da Computação na UNIMAR
 - 🌱 Aprendendo - JavaScript, HTML, CSS, Python
 - 📫 Contato: gabyhizukuri@gmail.com
-- ⚡ Curiosidade: **[Algo interessante sobre você]**
+- ⚡ Curiosidade: Desenvolvedora Front-end JavaScript, HTML e CSS. Atuo como freelancer nas horas vagas, transformando boas ideias em interfaces incríveis. Além da programação, tenho experiência com atendimento ao cliente, vendas e suporte, o que me permite entender melhor as necessidades dos projetos e entregar soluções eficientes. 
 
 ### 🛠️ Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,6 +18,5 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desaf
 
 ### 🌎 Onde me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-akemi/)
-[![Portfólio]
 ---
 💬 Me mande uma mensagem, adoro trocar ideias sobre tecnologia!

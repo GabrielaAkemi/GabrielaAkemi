@@ -33,6 +33,16 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de S
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+###Estatisticas📊
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielaAkemi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 
 ### 🌎 Onde me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-akemi/)

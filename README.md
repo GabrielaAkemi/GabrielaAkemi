@@ -1,6 +1,7 @@
 ## Gabriela Akemi✨
 
 **Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desafios e aprendizado! 💻✨**
+
 Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursaando Ciência da Computação na UNIMAR. Sou apaixonada por tecnologia e ainda estou em meu processo de aprendizagem. Atualmente focada no Curso ONE-ALURA
 
 ### 🚀 Sobre mim

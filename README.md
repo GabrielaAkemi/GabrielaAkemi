@@ -10,21 +10,20 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de S
 - ⚡ Curiosidade: Desenvolvedora Front-end JavaScript, HTML e CSS. Atuo como freelancer nas horas vagas, transformando boas ideias em interfaces incríveis. Além da programação, tenho experiência com atendimento ao cliente, vendas e suporte, o que me permite entender melhor as necessidades dos projetos e entregar soluções eficientes. 
 
 <p align="left">
-  
-    <a href="https://github.com/GabrielaAkemi?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielaAkemi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GabrielaAkemi?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielaAkemi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/GabrielaAkemi?tab=repositories&sort=stargazers">
+      <img 
+          alt="Total de estrelas" 
+          title="Total de estrelas GitHub" 
+          src="https://custom-icon-badges.demolab.com/github/stars/GabrielaAkemi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      />
+  </a>
+  <a href="https://github.com/GabrielaAkemi?tab=followers">
+      <img 
+          alt="Seguidores" 
+          title="Me siga no GitHub" 
+          src="https://custom-icon-badges.demolab.com/github/followers/GabrielaAkemi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      />
+  </a>
 </p>
 
 ### 🛠️ Tecnologias & Ferramentas

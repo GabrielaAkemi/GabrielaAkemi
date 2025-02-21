@@ -86,3 +86,5 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-akemi/)
 ---
 💬 Me mande uma mensagem, adoro trocar ideias sobre tecnologia!
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR2MGduMWlvZHlyYmNjOGZmbWZzZmhxeWRrYnBrMTRnd3p3MXJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W7Pl6YAtWg1qM/giphy.gif)
+

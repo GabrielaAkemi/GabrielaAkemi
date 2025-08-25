@@ -2,11 +2,11 @@
 
 **Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desafios e aprendizado! 💻✨**
 
-Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursaando Ciência da Computação na UNIMAR. Sou apaixonada por tecnologia e ainda estou em meu processo de aprendizagem. Atualmente focada no Curso ONE-ALURA
+Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursaando Ciência da Computação na UNIMAR. Sou apaixonada por tecnologia e ainda estou em meu processo de aprendizagem. Atualmente focada no Curso ONE-ALURA
 
 ### 🚀 Sobre mim
 - 🎓 Estudando - Ciência da Computação na UNIMAR
-- 🌱 Aprendendo - JavaScript, HTML, CSS, Python
+- 🌱 Aprendendo - JavaScript, HTML, CSS, Python, C#, React, Node.js
 - 📫 Contato: gabyhizukuri@gmail.com
 - ⚡ Curiosidade: Desenvolvedora Front-end JavaScript, HTML e CSS. Atuo como freelancer nas horas vagas, transformando boas ideias em interfaces incríveis. Além da programação, tenho experiência com atendimento ao cliente, vendas e suporte, o que me permite entender melhor as necessidades dos projetos e entregar soluções eficientes. 
 

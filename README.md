@@ -75,7 +75,8 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 19 anos e sou natural de S
   <a href = "gabyhizukuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-akemi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ---
-💬 Me mande uma mensagem, vamos trocar ideas!
+💬 Me mande uma mensagem, vamos trocar ideas!                         
+
 ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG4xanYzd2JzNDhzdjJsdXk3b2IxMHl6cGJ5a3poZTh2cHJnZzVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aw2V3gGD5znfG/giphy.gif)
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzN2dtbHMyeXA5eDU4aTlrMDlza2FmaXVhdXpmN2U5bHNvN3FqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif)

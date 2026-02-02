@@ -70,24 +70,12 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 19 anos e sou natural de S
 <br/>
 <br/>
 
-
-###Estatisticas📊
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielaAkemi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
 ### 🌎 Onde me encontrar?
   <a href="https://instagram.com/gabss_hizukurii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "gabyhizukuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-akemi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ---
-💬 Me mande uma mensagem, adoro trocar ideias sobre tecnologia!
+💬 Me mande uma mensagem, vamos trocar ideas!
   ---
 ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG4xanYzd2JzNDhzdjJsdXk3b2IxMHl6cGJ5a3poZTh2cHJnZzVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aw2V3gGD5znfG/giphy.gif)
 

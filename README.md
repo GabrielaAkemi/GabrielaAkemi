@@ -1,15 +1,46 @@
-## Gabriela Akemi✨
+## Gabriela Akemi Rejane Hizukuri Santos ✨
 
-**Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novos desafios e aprendizado! 💻✨**
+**Desenvolvedora de Software focada em aplicações Web e Mobile**
 
-Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursaando Ciência da Computação na UNIMAR. Sou apaixonada por tecnologia e ainda estou em meu processo de aprendizagem. Atualmente focada no Curso ONE-ALURA
+Sou Gabriela Akemi Rejane Hizukuri Santos, estudante de Ciência da Computação (5º semestre) na UNIMAR. Atuo no desenvolvimento de interfaces modernas e aplicações completas, com foco em organização, performance e experiência do usuário.
 
-### 🚀 Sobre mim
-- 🎓 Estudando - Ciência da Computação na UNIMAR 5\8
-- 🌱 Aprendendo - JavaScript, HTML, CSS, Python, C#, React, Node.js
-- 📫 Contato: gabyhizukuri@gmail.com
-- ⚡ Curiosidade: Desenvolvedora Front-end JavaScript, HTML e CSS. Atuo como freelancer nas horas vagas, transformando boas ideias em interfaces incríveis. Além da programação, tenho experiência com atendimento ao cliente, vendas e suporte, o que me permite entender melhor as necessidades dos projetos e entregar soluções eficientes. 
 
+
+### Sobre mim
+
+* 🎓 Ciência da Computação - UNIMAR (5/8)
+* 💻 Foco em desenvolvimento **Front-end e Mobile**
+* 🌱 Tecnologias em aprendizado contínuo:
+  `JavaScript` • `HTML` • `CSS` • `React` • `Node.js` • `C#` • `Dart (Flutter)` • `Python`
+* 📫 Contato: **[gabyhizukuri@gmail.com](mailto:gabyhizukuri@gmail.com)**
+
+
+
+### Experiência e Atuação
+
+* Desenvolvimento de interfaces responsivas e interativas
+* Construção de aplicações com integração a APIs REST
+* Desenvolvimento mobile utilizando **Flutter (Dart)**
+* Experiência com **C#** no desenvolvimento de lógica e backend
+* Atuação como freelancer criando soluções digitais
+
+
+
+<p align="left">
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="CSharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
+
+<br/>
+<br/>
 <p align="left">
   <a href="https://github.com/GabrielaAkemi?tab=repositories&sort=stargazers">
       <img 
@@ -26,57 +57,27 @@ Me chamo Gabriela Akemi Rejane Hizukuri Santos, tenho 19 anos e sou natural de S
       />
   </a>
 </p>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 🌎 Onde me encontrar?
-  <a href="https://instagram.com/gabss_hizukurii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "gabyhizukuri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-akemi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ---
-💬 Me mande uma mensagem, vamos trocar ideas!                                                        
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzN2dtbHMyeXA5eDU4aTlrMDlza2FmaXVhdXpmN2U5bHNvN3FqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif)
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG4xanYzd2JzNDhzdjJsdXk3b2IxMHl6cGJ5a3poZTh2cHJnZzVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aw2V3gGD5znfG/giphy.gif)  
 
 
+
+### 🌎 Onde me encontrar
+
+<a href="https://instagram.com/gabss_hizukurii" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:gabyhizukuri@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gabriela-akemi" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+💬 Aberta a oportunidades, networking e novos projetos.
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzN2dtbHMyeXA5eDU4aTlrMDlza2FmaXVhdXpmN2U5bHNvN3FqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif" width="300px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG4xanYzd2JzNDhzdjJsdXk3b2IxMHl6cGJ5a3poZTh2cHJnZzVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aw2V3gGD5znfG/giphy.gif" width="300px"/>
+</p>

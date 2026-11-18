@@ -1,81 +1,75 @@
-## Gabriela Akemi Rejane Hizukuri Santos ✨
+# Hi there! I'm Gabriela Akemi 👋
 
-**Desenvolvedora de Software focada em aplicações Web e Mobile**
+💻 Computer Science Student | Software Developer
+🌐 Web & Mobile Development | 🚀 Technology Enthusiast
 
-Sou Gabriela Akemi Rejane Hizukuri Santos, estudante de Ciência da Computação (6º semestre) na UNIMAR. Atuo no desenvolvimento de interfaces modernas e aplicações completas, com foco em organização, performance e experiência do usuário.
+---
 
+## 👩‍💻 About Me
 
+I'm Gabriela Akemi, a Computer Science student at **UNIMAR (University of Marília)**, currently in my 6th semester.
 
-### Sobre mim
+I'm a Software Developer passionate about building modern applications and exploring different areas of software engineering. I enjoy working on projects that combine creativity, problem-solving, and technology to create efficient and meaningful solutions.
 
-* 🎓 Ciência da Computação - UNIMAR (6/8)
-* 💻 Desenvolvimento Web and Mobile
-* 🌱 Tecnologias em aprendizado contínuo:
-  `JavaScript` • `HTML` • `CSS` • `React` • `Node.js` • `C#` • `Dart (Flutter)` • `Python`
-* 📫 Contato: **[gabyhizukuri@gmail.com](mailto:gabyhizukuri@gmail.com)**
+I have experience in **Web and Mobile Development**, working with both Front-End and Back-End technologies, REST API integrations, and SQL databases. I'm interested in understanding the entire software development process, from architecture and business logic to user experience and application performance.
 
+I'm constantly exploring new technologies, improving my technical skills, and expanding my knowledge in software engineering.
 
+---
 
-### Experiência e Atuação
+## 🛠 Tech Stack
 
-* Desenvolvimento de interfaces responsivas e interativas
-* Construção de aplicações com integração a APIs REST
-* Desenvolvimento mobile utilizando **Flutter (Dart)**
-* Experiência com **C#** no desenvolvimento de lógica e backend
-* Atuação como freelancer criando soluções digitais
+**Languages & Frameworks**
 
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Node.js
+- C#
+- Dart & Flutter
+- Python
 
+**Tools & Technologies**
 
-<p align="left">
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="CSharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
+- REST APIs
+- Git & GitHub
+- SQL Databases
+- Responsive Design
+- Software Architecture
 
-<br/>
-<br/>
-<p align="left">
-  <a href="https://github.com/GabrielaAkemi?tab=repositories&sort=stargazers">
-      <img 
-          alt="Total de estrelas" 
-          title="Total de estrelas GitHub" 
-          src="https://custom-icon-badges.demolab.com/github/stars/GabrielaAkemi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-      />
-  </a>
-  <a href="https://github.com/GabrielaAkemi?tab=followers">
-      <img 
-          alt="Seguidores" 
-          title="Me siga no GitHub" 
-          src="https://custom-icon-badges.demolab.com/github/followers/GabrielaAkemi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-      />
-  </a>
-</p>
+---
 
+## 💻 Experience & Areas of Interest
 
+- Development of modern, responsive, and interactive applications.
+- Web application development using React.js and Next.js.
+- Back-End development and business logic implementation.
+- REST API integration and communication between services.
+- Mobile application development using Flutter and Dart.
+- Working with SQL databases and data management.
+- Software architecture and application development.
+- Freelance software development and digital solutions.
 
-### 🌎 Onde me encontrar
+---
 
-<a href="https://instagram.com/gabss_hizukurii" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+## 🌱 Currently Learning
 
-<a href="mailto:gabyhizukuri@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+- Software Architecture
+- Advanced Programming Concepts
+- Back-End Development
+- Mobile Development
+- Artificial Intelligence
+- Information Security
+- Distributed Systems
 
-<a href="https://www.linkedin.com/in/gabriela-akemi" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+---
 
-💬 Aberta a oportunidades, networking e novos projetos.
+## 🌎 Let's Connect!
 
+\<p align="left">   \<a href="[https://instagram.com/gabss_hizukurii](https://instagram.com/gabss_hizukurii)" target="\_blank">     \<img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram"/>   \</a>   \<a href="mailto\:gabyhizukuri\@gmail.com">     \<img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Gmail"/>   \</a>   \<a href="[https://www.linkedin.com/in/gabriela-akemi/](https://www.linkedin.com/in/gabriela-akemi/)" target="\_blank">     \<img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a> \</p>
+
+💬 Open to new opportunities, collaborations, networking, and exciting projects!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzN2dtbHMyeXA5eDU4aTlrMDlza2FmaXVhdXpmN2U5bHNvN3FqeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1eEH7dQ2xwN95RwGQf/giphy.gif" width="300px"/>

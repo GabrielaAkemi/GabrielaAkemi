@@ -8,8 +8,8 @@ Sou Gabriela Akemi Rejane Hizukuri Santos, estudante de Ciência da Computação
 
 ### Sobre mim
 
-* 🎓 Ciência da Computação - UNIMAR (5/8)
-* 💻 Foco em desenvolvimento **Front-end e Mobile**
+* 🎓 Ciência da Computação - UNIMAR (6/8)
+* 💻 Desenvolvimento Web and Mobile
 * 🌱 Tecnologias em aprendizado contínuo:
   `JavaScript` • `HTML` • `CSS` • `React` • `Node.js` • `C#` • `Dart (Flutter)` • `Python`
 * 📫 Contato: **[gabyhizukuri@gmail.com](mailto:gabyhizukuri@gmail.com)**

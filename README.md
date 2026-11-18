@@ -2,7 +2,7 @@
 
 **Desenvolvedora de Software focada em aplicações Web e Mobile**
 
-Sou Gabriela Akemi Rejane Hizukuri Santos, estudante de Ciência da Computação (5º semestre) na UNIMAR. Atuo no desenvolvimento de interfaces modernas e aplicações completas, com foco em organização, performance e experiência do usuário.
+Sou Gabriela Akemi Rejane Hizukuri Santos, estudante de Ciência da Computação (6º semestre) na UNIMAR. Atuo no desenvolvimento de interfaces modernas e aplicações completas, com foco em organização, performance e experiência do usuário.
 
 
 

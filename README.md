@@ -3,7 +3,6 @@
 💻 Computer Science Student | Software Developer
 🌐 Web & Mobile Development | 🚀 Technology Enthusiast
 
----
 
 ## 👩‍💻 About Me
 
@@ -15,7 +14,7 @@ I have experience in **Web and Mobile Development**, working with both Front-End
 
 I'm constantly exploring new technologies, improving my technical skills, and expanding my knowledge in software engineering.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -38,7 +37,7 @@ I'm constantly exploring new technologies, improving my technical skills, and ex
 - Responsive Design
 - Software Architecture
 
----
+
 
 ## 💻 Experience & Areas of Interest
 
@@ -51,7 +50,7 @@ I'm constantly exploring new technologies, improving my technical skills, and ex
 - Software architecture and application development.
 - Freelance software development and digital solutions.
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -63,7 +62,7 @@ I'm constantly exploring new technologies, improving my technical skills, and ex
 - Information Security
 - Distributed Systems
 
----
+
 
 ## 🌎 Let's Connect!
 
